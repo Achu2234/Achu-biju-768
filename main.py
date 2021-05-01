@@ -23,7 +23,7 @@ FayasNoushad = Client(
 START_TEXT = """
 Hello {}, I am a country information finder bot. Give me a country name I will send the informations of the country.
 
-Made by @FayasNoushad
+Made by @Amalbiju154
 """
 HELP_TEXT = """
 - Just send me a country name
@@ -32,21 +32,21 @@ HELP_TEXT = """
 <b><u>Informations :-</u></b>
 Name, Native Name, Capital, Population, Region, Sub Region, Top Level Domains, Calling Codes, Currencies, Residence, Timezone, Wikipedia, Google
 
-Made by @FayasNoushad
+Made by @Amalbiju154
 """
 ABOUT_TEXT = """
 - **Bot :** `Country Info Bot`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Country-Info-Bot/tree/main)
+- **Creator :** [Achubiju](https://t.me/Amalbiju154)
+- **Channel :** [Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs ](https://t.me/Animemusicarchive6)
+- **Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs Sᴜᴩᴩᴏʀᴛ :** [Click here](https://t.me/Yeageristbots)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://t.me/Animemusicarchive6'),
+        InlineKeyboardButton('Group', url='https://t.me/Yeageristbots')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
@@ -126,8 +126,8 @@ Timezone : `{country.timezones()}`
         InlineKeyboardButton('Wikipedia', url=f'{country.wiki()}'),
         InlineKeyboardButton('Google', url=f'https://www.google.com/search?q={country.name()}')
         ],[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://t.me/Animemusicarchive6'),
+        InlineKeyboardButton('Group', url='https://t.me/Yeageristbots')
 
         ]]
     )
