@@ -4,9 +4,9 @@ A simple country information bot
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @FayasNoushad
+(C) @Achubiju
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Country-Info-Bot/blob/main/LICENSE
+License -> https://github.com/Achu2234/Country-Info-Bot/blob/main/LICENSE
 ```
 ---
 ## Deploy 
@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/Country-Info-Bot/blob/main/LICENSE
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/FayasNoushad/Country-Info-Bot/tree/main
+git clone https://github.com/Achu2234/Country-Info-Bot
 cd Country-Info-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -33,5 +33,5 @@ python3 main.py
 * `BOT_TOKEN` Your bot token from @BotFather
 ---
 ## Credits
-* [Fayas Noushad](https://github.com/FayasNoushad)
+* [Achu Biju](https://github.com/Achu2234)
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
