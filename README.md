@@ -6,7 +6,6 @@ Please fork this repository don't import code
 Made with Python3
 (C) @Achubiju
 Copyright permission under MIT License
-License -> https://github.com/Achu2234/Country-Info-Bot/blob/main/LICENSE
 ```
 ---
 ## Deploy 
