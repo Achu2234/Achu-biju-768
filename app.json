@@ -1,7 +1,7 @@
 {
     "name": "Country-Info-Bot",
     "description": "A simple country information finder bot",
-    "repository": "https://github.com/FayasNoushad/Country-Info-Bot",
+    "repository": "https://github.com/Achu2234/Country-Info-Bot",
     "keywords": ["country information", "pyrogram", "telegram bot"],
     "env": {
         "BOT_TOKEN": {
