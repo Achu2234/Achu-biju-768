@@ -1,8 +1,8 @@
 # Made with python3
-# (C) @FayasNoushad
+# (C) @Achubiju
 # Copyright permission under MIT License
-# All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/Country-Info-Bot/blob/main/LICENSE
+# All rights reserved by Achu biju
+
 
 import os
 import pyrogram
